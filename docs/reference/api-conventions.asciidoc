@@ -159,7 +159,7 @@ consumption.  The default for the `human` flag is
 === Date Math
 
 Most parameters which accept a formatted date value -- such as `gt` and `lt`
-in <<query-dsl-range-query,range queries>> `range` queries, or `from` and `to`
+in <<query-dsl-range-query,`range` queries>>, or `from` and `to`
 in <<search-aggregations-bucket-daterange-aggregation,`daterange`
 aggregations>> -- understand date maths.
 
